@@ -8,8 +8,8 @@ const ChoosingUs = () =>{
     return(
         <div style={{backgroundColor: '#fff1e5'}}>
             <div className="container overflow-hidden">
-                <p data-aos='slide-right' data-aos-offset="220" className={styles.heading}>Top three the reason why you should choosing us.</p>
-                <p data-aos='slide-left' className={styles.sub_text}>At At KYonex Technologies, we are committed to delivering top-quality solutions that add real value to your business. Here’s what sets us apart:</p>
+                <p data-aos='slide-right' data-aos-offset="220" className={styles.heading}>Top three reason why you should choosing us</p>
+                <p data-aos='slide-left' className={styles.sub_text}>At KYonex Technologies, we are committed to delivering top-quality solutions that add real value to your business. Here’s what sets us apart:</p>
                 <div className={`row ${styles.sub}`}>
                     <div data-aos='fade-right' className="col-md-4">
                         <img src={experience} alt="experience"/>
