@@ -31,19 +31,19 @@ const Footer = () => {
                             At KYonex Technologies, we craft custom digital solutions that drive business growth and success. From software development to tech consulting, we turn ideas into reality with a strong focus on quality, performance, and scalability.
                             </p>
                             <div className={styles.social_logo}>
-                                <a href="https://www.facebook.com/innovatorunited/" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.facebook.com/kyonextechnologies/" target="_blank" rel="noopener noreferrer">
                                     <img src={fb} alt="Facebook" className={styles.img} />
                                 </a>
-                                <a href="https://www.linkedin.com/company/innovator-united/" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.linkedin.com/company/kyonextechnologies/" target="_blank" rel="noopener noreferrer">
                                     <img src={linkdin} alt="LinkedIn" className={styles.img} />
                                 </a>
-                                <a href="https://www.instagram.com/innovatorunited/" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.instagram.com/kyonextechnologies/" target="_blank" rel="noopener noreferrer">
                                     <img src={insta} alt="Instagram" className={styles.img} />
                                 </a>
-                                <a href="mailto:innovatorunited@gmail.com" target="_blank" rel="noopener noreferrer">
+                                <a href="mailto:kyonex.technologies@gmail.com" target="_blank" rel="noopener noreferrer">
                                     <img src={gmail} alt="Gmail" className={styles.img} />
                                 </a>
-                                <a href="https://x.com/innovatorunited" target="_blank" rel="noopener noreferrer">
+                                <a href="https://x.com/kyonextech" target="_blank" rel="noopener noreferrer">
                                     <img src={twitter} alt="Twitter" className={styles.img} />
                                 </a>
                             </div>
@@ -57,17 +57,13 @@ const Footer = () => {
 <li>Tech Consulting</li>
 <li>Expert Training & Ongoing Support</li>
 <li>Mobile App Development</li>
-<li>Digital Transformation</li>
 <li>AI & Machine Learning Solutions</li>
-<li>Blockchain Development & Web3 Solutions</li>
 <li>Cloud Computing & DevOps Services</li>
 <li>Cybersecurity & Data Protection</li>
-<li>IoT & Smart Technology Solutions</li>
-<li>SaaS Product Development</li>
 <li>UI/UX Design & Prototyping</li>
 <li>Automation & Workflow Optimization</li>
 <li>E-commerce & Marketplace Solutions</li>
-<li>Big Data Analytics & Business Intelligence</li>
+
 
                             </ul>
                         </div>
