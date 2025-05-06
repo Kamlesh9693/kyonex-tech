@@ -112,7 +112,7 @@ const Footer = () => {
             </div>
 
             <div style={{backgroundColor: '#010d30', padding: '15px 0', borderTop: '1px solid #333'}}>
-                <p className={styles.bottom}>© 2024 Innovator United. All rights reserved.</p>
+                <p className={styles.bottom}>© 2024 KYonex Technologies. All rights reserved.</p>
             </div>
         </>
     );
