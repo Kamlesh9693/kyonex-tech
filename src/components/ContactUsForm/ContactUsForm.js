@@ -32,7 +32,7 @@ const ContactUsForm = () => {
         window.Email.send({
             Host: "smtp.elasticemail.com", // Replace with your SMTP host
             Username: "connect.innovatorunited@gmail.com", // Your email address
-            Password: "0A1EBDB66701DEF5217471A19C311D5A13CA",    // Your email password
+            Password: process.env,    // Your email password
             To: 'connect.innovatorunited@gmail.com',  // Your email address where you want to receive the messages
             From: 'connect.innovatorunited@gmail.com',
             Subject: "New Contact Form Message from INNOVATOR UNITED",
